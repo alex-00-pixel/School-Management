@@ -1,0 +1,23 @@
+Software Requirements: -
+To develop the C++ Student Report Management Project, the following software and hardware requirements are needed:
+
+Software Requirements:
+
+    1. A C++ IDE (Integrated Development Environment) such as Visual Studio or Code::Blocks
+    2. A text editor such as Notepad++ or Sublime Text
+    3. A version control system (VCS) like Git
+
+Hardware Requirements:
+
+    1. A computer with a minimum of sufficient RAM.
+    2. Sufficient storage space for the development environment and the database management system
+    3. A processor that supports the C++ compiler and IDE
+    4. A stable internet connection for downloading and installing software libraries and dependencies.
+
+Additionally, it's essential to ensure that the software and hardware requirements are compatible and meet 
+the project's specifications. For example, the computer's processor 
+must be compatible with the IDE and the project's requirements.
+
+In summary, developing the C++ Student Report Management Project requires a computer with sufficient hardware specifications, 
+an appropriate C++ IDE, a text editor, and a version control system. By ensuring that the software and 
+hardware requirements are met, the project can be developed efficiently and effectively.
